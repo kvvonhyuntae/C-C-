@@ -1,7 +1,0 @@
-﻿  Animal.cpp
-  Cat.cpp
-  Dog.cpp
-  LoadMain.cpp
-C:\Users\User\Desktop\Test\LoadProject\LoadMain.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  코드를 생성하고 있습니다...
-  LoadProject.vcxproj -> C:\Users\User\Desktop\Test\x64\Debug\LoadProject.exe

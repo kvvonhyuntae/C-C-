@@ -1,8 +1,0 @@
-﻿  main.cpp
-  main2.cpp
-C:\workspace\Test\Test\main2.cpp(1,2): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
-F:\프로그램\VisualStudio\Community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,1): error C2059: 구문 오류: 'extern '
-F:\프로그램\VisualStudio\Community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,12): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-F:\프로그램\VisualStudio\Community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,12): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-C:\workspace\Test\Test\main2.cpp(68,1): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
-  코드를 생성하고 있습니다...
